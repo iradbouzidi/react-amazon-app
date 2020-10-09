@@ -7,7 +7,8 @@ import { useStateValue } from "./StateProvider";
 
 function Header() {
   const [{ basket }] = useStateValue();
-  console.log(basket)
+
+  console.log(basket);
 
   return (
     <nav className="header">
