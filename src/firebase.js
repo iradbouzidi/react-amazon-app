@@ -1,14 +1,14 @@
 import firebase from "firebase";
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyCSXKYUitCpoyvj4J6ZLr47V_EslOCELwU",
-  authDomain: "clone-irad.firebaseapp.com",
-  databaseURL: "https://clone-irad.firebaseio.com",
-  projectId: "clone-irad",
-  storageBucket: "clone-irad.appspot.com",
-  messagingSenderId: "889361366197",
-  appId: "1:889361366197:web:676dd6d55bfcd553e192fc",
-  measurementId: "G-N996F4C10Y",
+  apiKey: "AIzaSyCPo0YRMbk7q6id9RBSgc1M-_-AWiS1Qec",
+  authDomain: "clone-irad-682e5.firebaseapp.com",
+  databaseURL: "https://clone-irad-682e5.firebaseio.com",
+  projectId: "clone-irad-682e5",
+  storageBucket: "clone-irad-682e5.appspot.com",
+  messagingSenderId: "472093208202",
+  appId: "1:472093208202:web:56edc1920cb55bee2fc773",
+  measurementId: "G-EJK4KE9ZLG",
 });
 
 const auth = firebase.auth();
